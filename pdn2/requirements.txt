@@ -1,0 +1,1 @@
+https://pypi.clarin-pl.eu/packages/poldeepner2-0.8.2-py3-none-any.whl
