@@ -22,6 +22,13 @@ Link: https://drive.google.com/file/d/1v25pBBwlGvyMX-no1bDj0PlM-p0DBLyc/view?usp
 unzip pdn2_kpwr_ner_n82_0.8.1.zip
 ```
 
+## CEN
+
+Link: https://drive.google.com/file/d/1OGFYX8_Y9tJlmrtMooTWApbkmCc2eb1W/view?usp=sharing
+
+```bash
+unzip pdn2_cen_ner_n82_0.8.1.zip
+```
 
 # Usage
 
