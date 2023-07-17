@@ -26,3 +26,24 @@ unzip pdn2_kpwr_ner_n82_0.8.1.zip
 # Usage
 
 See the `demo.py` script.
+
+```bash
+python demo.py
+```
+
+Expected output:
+```
+python demo.py 
+
+Model metadata
+--------------
+author     : Michał Marcińczuk, CodeNLP
+contact    : marcinczuk@gmail.com
+description: Model trained on the KPWr corpus recognizes 82 types of nested entities.
+reference  : https://www.sciencedirect.com/science/article/pii/S1877050921015179
+score      : F1=80.29 on the KPWr test subset (micro avg, strict evaluation).
+
+[24:29] Chiny (nam_loc_gpe_country)
+[32:40] Brazylia (nam_loc_gpe_country)
+[111:132] dolara amerykańskiego (nam_oth_currency)
+```
