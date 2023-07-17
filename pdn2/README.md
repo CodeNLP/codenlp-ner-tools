@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## KPWr
 
-Link: https://drive.google.com/file/d/1nIg9iTy1N4VF8zGLW3LHjSRNXqIzXnib/view?usp=sharing
+Link: https://drive.google.com/file/d/1v25pBBwlGvyMX-no1bDj0PlM-p0DBLyc/view?usp=drive_link
 
 ```bash
 unzip pdn2_kpwr_ner_n82_0.8.1.zip
